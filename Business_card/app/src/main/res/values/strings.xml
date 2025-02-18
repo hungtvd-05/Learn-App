@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business_card</string>
+    <string name="full_name">Trần Viên Duy Hưng</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="phone_number">0359365883</string>
+    <string name="share_name">\@AndroidDev</string>
+    <string name="email">hungtvd.23ai@vku.udn.vn</string>
+</resources>
